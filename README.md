@@ -33,7 +33,7 @@ Here's a walkthrough of implemented required features:
 <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJmZ2VldWlwY2lkdWtxODZvcXFhcWxvdnE3amw4bTl2MnhsNTRyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uXd2LWeqLOle2wTArb/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with GIPHY.
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
