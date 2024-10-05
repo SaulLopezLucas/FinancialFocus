@@ -81,3 +81,20 @@ button {
 button:hover {
     background-color: #0056b3;
 }
+.user-field{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    width: 710px; 
+}
+input[type="text"] {
+  width: 75%;
+  padding: 10px;
+  font-size: 2rem;
+  text-align: center;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+.feedback{
+    font-size: 2rem;
+}
